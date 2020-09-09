@@ -13,4 +13,4 @@ ctags -f tags --exclude="*test*" --exclude="*.js" \
 echo "tag file updated"
 
 # update vimrc with the path
-# set tags=./tags,tags,/home/user/commontags
+# set tags=/home/user/tags
